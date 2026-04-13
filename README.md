@@ -17,7 +17,6 @@
 	- Metrics reported: cross-validated RMSE (train), RMSE, MAE, R² (test).
 
 - **Final results (sorted by test RMSE):**
- - **Final results (sorted by test RMSE):**
 
 	| Model | rmse_cv | rmse_test | mae_test | r2 |
 	|---|---:|---:|---:|---:|
